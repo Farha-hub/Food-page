@@ -4,20 +4,20 @@
 }
 #navbar ul li a {
   font-size: 1rem;
-  padding: 0px 7px;
+  padding: 0px 15px;
   padding-bottom: 6px;
 }
 
 /* Home section  */
 #home {
-  height: 370px;
+  height: 450px;
   padding: 3px 60px;
 }
 #home ::before {
-  height: 350px;
+  height: 380px;
 }
 #home p {
-  height: 13px;
+  height: 80px;
 }
 /* services section  */
 .services {
@@ -35,9 +35,10 @@
 
 /* utility classes  */
 .h-primary {
-  font-size: 22px;
+  font-size: 18px;
 }
 .btn {
-  padding: 4px 8px;
-  font-size: 13px;
+  margin: 34px;
+  padding: 6px 10px;
+  font-size: 15px;
 }
